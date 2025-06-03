@@ -1,2 +1,2 @@
-version=1.5.0
-url=https://www.dropbox.com/scl/fi/egnz941i5ydxpckhcx6dn/empty.exe?rlkey=0h946kgxt7zj62feqgrripblw&st=ky3nia5l&dl=1
+version=1.6.0
+url=https://www.dropbox.com/scl/fi/egnz941i5ydxpckhcx6dn/empty.exe?rlkey=0h946kgxt7zj62feqgrripblw&st=a0t47tne&dl=1
